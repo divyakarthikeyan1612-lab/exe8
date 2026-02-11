@@ -126,6 +126,7 @@ plt.show()
 
 ## Output:
 ![decision tree classifier model]
+
 <img width="1260" height="810" alt="image" src="https://github.com/user-attachments/assets/e0fdcb67-9e9a-413d-bd5c-5e1c2715bee0" />
 
 
